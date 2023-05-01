@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jordan aka @jabu9
 - 👀 I’m interested in becoming a more efficient programmer
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, SQL, and Java
 - 💞️ I’m looking to collaborate on building projects
 - 📫 How to reach me IG: @Jordansreality
 
