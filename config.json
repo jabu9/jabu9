@@ -1,0 +1,12 @@
+{
+    "name": "Jordan Abuhantash",
+    "title": "Software Developer | IT Specialist | Data Analysis",
+    "location": "United States",
+    "interests": ["Power Query", "Data Analysis", "Open Source"],
+    "contact": {
+      "email": "jordanabuhantashmedia@gmail.com",
+      "twitter": "@jordansreality",
+      "linkedin": "linkedin.com/in/jordan-abuhantash"
+    },
+    "favorite_tools": ["Power Query", "Python", "Git"]
+  }
